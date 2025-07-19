@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Aspiring Software Developer<br>📚 MERN Dev<br>💡Problem Solving<br>🧮 Data Structure & Algorithm</p>
+<p align="left">✨ Aspiring Software Developer<br>📚 MERN Dev<br>💡Problem Solving<br>🧮 Data Structure & Algorithm<br>👤OPPs Concepts with JAVA</p>
 
 ###
 
