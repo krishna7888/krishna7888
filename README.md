@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! I'm Krishna Gupta, a full-stack developer currently learning the MERN stack. I built this Smart Canteen Pre-Order System to solve long queue problems at college canteens. I'm also skilled in C++, DSA, and love taking on real-world challenges.</p>
+<p align="left">Hi! I'm Krishna Gupta, a full-stack developer currently learning the MERN stack. I built this Smart Canteen Pre-Order System to solve long queue problems at college canteens. I'm also skilled in C++, DSA, OPPs with JAVA and love taking on real-world challenges.</p>
 
 ###
 
